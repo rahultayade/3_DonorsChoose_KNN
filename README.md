@@ -1,6 +1,6 @@
 # 3_DonorsChoose_KNN
 
-### Assignment 3: Apply KNN
+### Assignment 3: Apply KNN on Donar Choose dataset
 
 1.[Task-1] Apply KNN(brute force version) on these feature sets</br>
 
